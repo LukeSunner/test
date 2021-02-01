@@ -2,7 +2,14 @@
 
 public class ObjectName : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public string objName;
+    public void Start()
+    {
+        if (objName == "")
+        {
+            objName = "Nameless one";
+        }
+    }
 
     // Update is called once per frame
     void Update()
