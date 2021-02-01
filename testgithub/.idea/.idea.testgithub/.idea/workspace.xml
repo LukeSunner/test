@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e58052-4030-429e-a162-b05a67ad7ffd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scripts/ObjectName.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scripts/ObjectName.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612217630813</updated>
-      <workItem from="1612217658311" duration="777000" />
+      <workItem from="1612217658311" duration="1262000" />
     </task>
     <servers />
   </component>
